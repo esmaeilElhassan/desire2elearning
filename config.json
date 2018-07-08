@@ -17,7 +17,5 @@
     "forcedefaultlanguage": "false",
     "privacypolicy": "https://www.ust-elearning.net/policy/mobile.html"
 
-    ,"compileSdkVersion" : "27.1.0"
-   , "buildToolsVersion" : "27.1.0"
    
 }
